@@ -6,6 +6,6 @@ Data Management app for managing participants and batches database.
 
 ![Alt text](viewbatches.png)
 
-![Alt text](addparticipants.png)
+![Alt text](addparticipant.png)
 
-![Alt text](addbatches.png)
+![Alt text](addbatch.png)
